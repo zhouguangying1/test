@@ -1,6 +1,4 @@
 print("hello")
 print ("ffff")
 print ("fdsfsfffffff") 
-print ("zhouguangying1")
-print("zhouguangying2") 
-print ("zhougangying3") 
+
